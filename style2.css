@@ -243,12 +243,7 @@ i {
     /* Make middle grid full width */
     .grid {
         grid-template-columns: 1fr;
-        padding: 0.5rem;
-    }
-
-    .middle-grid {
-        padding: 0;
-        
     }
 }
+
 
